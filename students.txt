@@ -1,0 +1,3 @@
+Lukasz,Pikulik,4
+Magda,Nowak,6
+Kutas,Kozla,2
